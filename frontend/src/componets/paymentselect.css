@@ -1,0 +1,45 @@
+/* PaymentSelection.css */
+
+/* Style for the container */
+div {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the title */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the list */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style for list items */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for links */
+  a {
+    display: block;
+    padding: 10px 20px;
+    background-color:#22e33c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  /* Hover effect for links */
+  a:hover {
+    background-color: #0056b3;
+  }
+  
